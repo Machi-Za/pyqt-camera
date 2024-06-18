@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>Resources/autorenew_48dp.svg</file>
+    <file>Resources/cameraswitch_48dp.svg</file>
+    <file>Resources/photo_camera_48dp.svg</file>
+    <file>Resources/videocam_48dp.svg</file>
+    <file>Resources/videocam_off_48dp.svg</file>
+  </qresource>
+</RCC>
